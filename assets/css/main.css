@@ -750,8 +750,9 @@ img {
   max-width: 100%;
 }
 
+/* readable links */
 a {
-  color: #e7eeab;
+  color: #a4b325;
   text-decoration: none;
 }
 a:hover {
