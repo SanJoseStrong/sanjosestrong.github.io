@@ -4,8 +4,8 @@ title: San Jose Strong
 description: > # this means to ignore newlines until "baseurl:"
   a grassroots platform designed to reinvent San Jose for and by the community
 permalink: ':title/'
-baseurl: "/sjstrong" # the subpath of your site, e.g. /blog
-url: "https://ctychen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://SanJoseStrong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
 twitter: SanJoseStrong1
