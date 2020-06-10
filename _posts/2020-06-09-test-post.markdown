@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Test Post"
+date:   2020-06-09 00:00:00
+img: sjs.png
+description: Testing a post. For example you could use these for updates, news, whatever that will be shown on the org frontpage.
+---
+
+Firstly, WOW, thank you so much for volunteering. The outpouring of support has been amazing. And you all have SUCH COOL skills!!! Bear with us as we work to get more and more organized. We have lots of great ideas and we want to work with you to make San Jose Strong a streamlined platform for activism and engagement in the South Bay.
