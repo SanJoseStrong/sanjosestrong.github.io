@@ -1,0 +1,680 @@
+.mediaViewInfo {
+	--web-view-name: Home - businesses;
+	--web-view-id: Home_-_businesses;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home_-_businesses;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home_-_businesses {
+	position: absolute;
+	width: 1920px;
+	height: 3218px;
+	background-color: rgba(253,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home - businesses;
+	--web-view-id: Home_-_businesses;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_45 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 1822px;
+	height: 1211px;
+	left: 49px;
+	top: 844px;
+}
+#Group_33 {
+	position: absolute;
+	width: 1822px;
+	height: 115px;
+	left: 48px;
+	top: 844px;
+	overflow: visible;
+}
+#Rectangle_46 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 1822px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_48 {
+	fill: rgba(225,226,239,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 48px;
+	top: 844px;
+}
+#Rectangle_49 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 503px;
+	top: 844px;
+}
+#Rectangle_50 {
+	fill: rgba(225,226,239,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_50 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 1414px;
+	top: 844px;
+}
+#Rectangle_51 {
+	fill: rgba(225,226,239,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_51 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 959px;
+	top: 844px;
+}
+#Events {
+	left: 204px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Businesses {
+	left: 614px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 234px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Organizations {
+	left: 1044px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Business_name_Business_typedes {
+	left: 99px;
+	top: 1098px;
+	position: absolute;
+	overflow: visible;
+	width: 587px;
+	height: 352px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_56 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_56 {
+	position: absolute;
+	overflow: visible;
+	width: 713px;
+	height: 101px;
+	left: 49px;
+	top: 959px;
+}
+#Repeat_Grid_2 {
+	position: absolute;
+	width: 585px;
+	height: 565px;
+	left: 99px;
+	top: 1490px;
+	overflow: hidden;
+}
+#Group_46 {
+	position: absolute;
+	width: 585px;
+	height: 362px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#BackAYard_Caribbean_restaurant {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 586px;
+	height: 362px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Group_46_c {
+	position: absolute;
+	width: 585px;
+	height: 362px;
+	left: 0px;
+	top: 402px;
+	overflow: visible;
+}
+#BackAYard_Caribbean_restaurant_c {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 586px;
+	height: 362px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Filter {
+	left: 99.5px;
+	top: 986px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Sort {
+	left: 443.5px;
+	top: 986px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 1108.128px;
+	height: 1095.503px;
+	left: 761.541px;
+	top: 959px;
+	overflow: visible;
+}
+#Rectangle_47 {
+	fill: rgba(82,90,93,1);
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 400px;
+	left: 731px;
+	top: 1106px;
+}
+#Stories__News {
+	left: 1492px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#sj_strong_header_home {
+	position: absolute;
+	width: 1920px;
+	height: 794px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#header {
+	position: absolute;
+	width: 1920px;
+	height: 646px;
+	left: 0px;
+	top: 148px;
+	overflow: visible;
+}
+#Path_2 {
+	fill: rgba(225,226,239,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 646px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_48 {
+	position: absolute;
+	width: 1920px;
+	height: 148px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7 {
+	fill: rgba(153,157,209,1);
+}
+.Rectangle_7 {
+	filter: drop-shadow(0px 3px 1px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 152.5px;
+	left: 0px;
+	top: 0px;
+}
+#Group_47 {
+	position: absolute;
+	width: 120px;
+	height: 84px;
+	left: 1750px;
+	top: 32px;
+	overflow: visible;
+}
+#Rectangle_73 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 15px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_74 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 16px;
+	left: 0px;
+	top: 34px;
+}
+#Rectangle_75 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_75 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 15px;
+	left: 0px;
+	top: 69px;
+}
+#Group_51 {
+	position: absolute;
+	width: 1072px;
+	height: 347px;
+	left: 130px;
+	top: 332px;
+	overflow: visible;
+}
+#San_Jos_Strong {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1073px;
+	height: 152px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 110px;
+	color: rgba(0,0,0,1);
+}
+#A_grassroots_platform_to_reinv {
+	left: 0px;
+	top: 171px;
+	position: absolute;
+	overflow: visible;
+	width: 1073px;
+	height: 176px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Mask_Group_3 {
+	position: absolute;
+	width: 470px;
+	height: 619px;
+	left: 1320px;
+	top: 171px;
+	overflow: visible;
+}
+#mission_statement {
+	position: absolute;
+	width: 1920px;
+	height: 804px;
+	left: 0px;
+	top: 2105px;
+	overflow: visible;
+}
+#mission_statement_and_goals {
+	position: absolute;
+	width: 1920px;
+	height: 804px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(225,226,239,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 804px;
+	left: 0px;
+	top: 0px;
+}
+#Mission_Statement__San_Jos_Str {
+	left: 130px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 1662px;
+	height: 536px;
+	line-height: 54px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Group_11 {
+	position: absolute;
+	width: 490px;
+	height: 95px;
+	left: 715px;
+	top: 649px;
+	overflow: visible;
+}
+#Rectangle_8 {
+	fill: rgba(153,157,209,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+#Volunteer {
+	left: 156px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+#footer {
+	position: absolute;
+	width: 1920px;
+	height: 309px;
+	left: 0px;
+	top: 2909px;
+	overflow: visible;
+}
+#Rectangle_58 {
+	fill: rgba(164,168,221,1);
+}
+.Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 309px;
+	left: 0px;
+	top: 0px;
+}
+#San_Jose_Strong__2020 {
+	left: 137px;
+	top: 208px;
+	position: absolute;
+	overflow: visible;
+	width: 493px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#filter {
+	fill: rgba(121,125,180,1);
+}
+.filter {
+	overflow: visible;
+	position: absolute;
+	width: 32.372px;
+	height: 35.001px;
+	left: 244.814px;
+	top: 992.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#sort {
+	position: absolute;
+	width: 52.036px;
+	height: 31.5px;
+	left: 567.464px;
+	top: 995.5px;
+	overflow: visible;
+}
+#Line_7 {
+	fill: transparent;
+	stroke: rgba(121,125,180,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 32.5px;
+	left: 10.036px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_14 {
+	fill: transparent;
+	stroke: rgba(121,125,180,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_14 {
+	overflow: visible;
+	position: absolute;
+	width: 27.007px;
+	height: 17.038px;
+	left: 0px;
+	top: 21.532px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_8 {
+	fill: transparent;
+	stroke: rgba(121,125,180,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 13px;
+	height: 3px;
+	left: 30.036px;
+	top: 5.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_9 {
+	fill: transparent;
+	stroke: rgba(121,125,180,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_9 {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 3px;
+	left: 30.036px;
+	top: 13.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_10 {
+	fill: transparent;
+	stroke: rgba(121,125,180,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10 {
+	overflow: visible;
+	position: absolute;
+	width: 25px;
+	height: 3px;
+	left: 30.036px;
+	top: 21.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
