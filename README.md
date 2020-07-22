@@ -9,7 +9,7 @@ Yes? -> Upload those to the assets folder</br>
 No? -> You're good to go</br>
 4. Build your html file in the pages folder.</br>
 5. Does it work? <br>
-Yes? -> Remove the files files from the SJStrongWebsite folder
+Yes? -> Remove the files files from the SJStrongWebsite folder </br>
 _note: the index.html file also needs to be done. The template for that is \__Home___default_events__.html
 
 
