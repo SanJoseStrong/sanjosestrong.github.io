@@ -10,6 +10,6 @@ No? -> You're good to go</br>
 4. Build your html file in the pages folder.</br>
 5. Does it work? <br>
 Yes? -> Remove the files files from the SJStrongWebsite folder
-
+_note: the index.html file also needs to be done. The template for that is [file|__Home___default_events__.html]
 
 
