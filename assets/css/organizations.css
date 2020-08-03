@@ -8,6 +8,9 @@
 :root {
 	--web-view-ids: Home_-_organizations;
 }
+body {
+  zoom: 87%
+}
 * {
 	margin: 0;
 	padding: 0;
