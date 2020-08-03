@@ -11,7 +11,12 @@
 	--web-view-ids: _Home_-_defaultevents_;
 }
 body {
-  zoom: 50%;
+  --web-view-name: * Home - default/events *;
+	--web-view-id: _Home_-_defaultevents_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+  width: 100%;
+  height: auto;
 }
 * {
 	margin: 0;
