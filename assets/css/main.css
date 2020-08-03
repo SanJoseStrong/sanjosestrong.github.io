@@ -6,10 +6,12 @@
 	--web-enable-deep-linking: true;
   width: 100%;
   height: auto;
-  zoom: 50%;
 }
 :root {
 	--web-view-ids: _Home_-_defaultevents_;
+}
+body {
+  zoom: 50%;
 }
 * {
 	margin: 0;
