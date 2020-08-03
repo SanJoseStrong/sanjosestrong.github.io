@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 .mediaViewInfo {
 	--web-view-name: * Home - default/events *;
 	--web-view-id: _Home_-_defaultevents_;
@@ -7,7 +8,6 @@
 :root {
 	--web-view-ids: _Home_-_defaultevents_;
 }
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 * {
 	margin: 0;
 	padding: 0;
