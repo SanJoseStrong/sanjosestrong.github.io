@@ -10,13 +10,13 @@
 }
 @media screen and (min-width: 980px) /* Desktop */ {
   body {
-    zoom = 100%
+    zoom = 87%
   }
 }
 
 @media screen  and (max-width: 979px) /* Tablet */ {
   body {
-		zoom = 100%
+		zoom = 87%
   }
 }
 
