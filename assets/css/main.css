@@ -7,23 +7,12 @@
 }
 :root {
 	--web-view-ids: _Home_-_defaultevents_;
-}
-@media screen and (min-width: 980px) /* Desktop */ {
-  body {
-    zoom = 87%
-  }
-}
-
-@media screen  and (max-width: 979px) /* Tablet */ {
-  body {
-		zoom = 87%
-  }
-}
-
-@media screen and (max-width: 500px) /* Mobile */ {
-  body {
-    zoom = 87%
-  }
+body {
+<<<<<<< HEAD
+	zoom = 87%
+=======
+  zoom: 0.87
+>>>>>>> 7258b59c247e6cc4d432c1191569dc0766710101
 }
 * {
 	margin: 0;
@@ -31,6 +20,7 @@
 	box-sizing: border-box;
 	border: none;
 }
+
 #_Home_-_defaultevents_ {
 	position: absolute;
 	width: 1920px;
