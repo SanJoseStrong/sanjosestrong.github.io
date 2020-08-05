@@ -4,15 +4,19 @@
 	--web-view-id: _Home_-_defaultevents_;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
+  width: 100%;
+  height: auto;
 }
 :root {
 	--web-view-ids: _Home_-_defaultevents_;
+}
+
+
+
+
+
 body {
-<<<<<<< HEAD
-	zoom = 87%
-=======
   zoom: 0.87
->>>>>>> 7258b59c247e6cc4d432c1191569dc0766710101
 }
 * {
 	margin: 0;
@@ -20,7 +24,6 @@ body {
 	box-sizing: border-box;
 	border: none;
 }
-
 #_Home_-_defaultevents_ {
 	position: absolute;
 	width: 1920px;
