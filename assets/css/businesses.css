@@ -10,7 +10,7 @@
 	--web-view-ids: Home_-_businesses;
 }
 body {
-  zoom: 0.87
+	zoom: calc(0.87 * device-width / 414)
 }
 * {
 	margin: 0;
