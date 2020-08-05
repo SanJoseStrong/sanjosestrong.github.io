@@ -1,9 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-@media screen and (max-width: 500px) /* Mobile */ {
-  body {
-    zoom = 87%
-  }
-}
 .mediaViewInfo {
 	--web-view-name: * Home - default/events *;
 	--web-view-id: _Home_-_defaultevents_;
@@ -13,23 +8,10 @@
 :root {
 	--web-view-ids: _Home_-_defaultevents_;
 }
-@media screen and (min-width: 980px) /* Desktop */ {
-  body {
-    zoom = 87%
-  }
+body {
+	zoom = 0.87
 }
 
-@media screen  and (max-width: 979px) /* Tablet */ {
-  body {
-		zoom = 87%
-  }
-}
-
-@media screen and (max-width: 500px) /* Mobile */ {
-  body {
-    zoom = 87%
-  }
-}
 * {
 	margin: 0;
 	padding: 0;
