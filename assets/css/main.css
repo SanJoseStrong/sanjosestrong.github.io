@@ -9,15 +9,15 @@
 	--web-view-ids: _Home_-_defaultevents_;
 }
 body {
-	zoom = 0.87
+	zoom = 87%
 }
-
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	border: none;
 }
+
 #_Home_-_defaultevents_ {
 	position: absolute;
 	width: 1920px;
