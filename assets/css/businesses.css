@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 .mediaViewInfo {
 	--web-view-name: Home - businesses;
 	--web-view-id: Home_-_businesses;
@@ -9,7 +10,7 @@
 	--web-view-ids: Home_-_businesses;
 }
 body {
-  zoom: 100%
+  zoom: 87%
 }
 * {
 	margin: 0;
