@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@media screen and (max-width: 500px) /* Mobile */ {
+  body {
+    zoom = 87%
+  }
+}
 .mediaViewInfo {
 	--web-view-name: * Home - default/events *;
 	--web-view-id: _Home_-_defaultevents_;
