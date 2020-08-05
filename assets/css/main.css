@@ -7,9 +7,12 @@
 }
 :root {
 	--web-view-ids: _Home_-_defaultevents_;
-}
 body {
+<<<<<<< HEAD
 	zoom = 87%
+=======
+  zoom: 0.87
+>>>>>>> 7258b59c247e6cc4d432c1191569dc0766710101
 }
 * {
 	margin: 0;
