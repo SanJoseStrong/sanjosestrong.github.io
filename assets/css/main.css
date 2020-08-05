@@ -11,7 +11,8 @@
 	--web-view-ids: _Home_-_defaultevents_;
 }
 body {
-  zoom: calc(0.87 * device-width / 414)
+	zoom: 0.87
+  zoom: calc(0.6 * device-width / 414)
 }
 * {
 	margin: 0;
