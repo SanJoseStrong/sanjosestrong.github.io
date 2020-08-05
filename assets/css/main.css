@@ -4,8 +4,6 @@
 	--web-view-id: _Home_-_defaultevents_;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
-  width: 100%;
-  height: auto;
 }
 :root {
 	--web-view-ids: _Home_-_defaultevents_;
